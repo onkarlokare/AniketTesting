@@ -1,0 +1,21 @@
+<!doctype html>
+  <html lang="en">
+ -��<head>
+ -����<title>Mustache.js External Method</title>
+ +��<head>
+ +����<title>Mustache.js External Method</title>
+  
+ -�����</head>
+ -��<body>
+ -���<p>Hello its Aniket</
+ -��</body>
+ -</html>
+ +�����</head>
+ +��<body>
+ +���<p>Hello its Aniket</p>
+ +<p>Hi this is Arun</p>
+ 
+ <p>hello its onkar</p>
+ 
+ +��</body>
+ +</html>
